@@ -1,7 +1,11 @@
-Hello 👋
-i'm Alicia
-Currently learning C++.
-Interested in codeing and writting stories and poems.  
-Curious by nature. Determined by choice.
-This repository contains my learning journey and projects.
-Thanks for visiting
+👋 Hi, I'm Alicia.
+I'm currently learning C++ and using this repository to document my progress and projects.
+## About Me
+- 📚 Learning C++
+- 💻 Interested in coding
+- ✍️ Enjoy writing stories and poems
+- 🌟 Curious by nature, determined by choice
+## Programs Completed
+- [x] Hello World (`hello.cpp`)
+ Thanks for visiting my repository! 🚀
+ 
